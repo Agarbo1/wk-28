@@ -8,10 +8,10 @@ const Detail = () => {
   return (
     <div className='details'>
       <img
-        src='https://upload.wikimedia.org/wikipedia/commons/e/e1/FullMoon2010.jpg'
+        src='https://www.horoscope.com/images-US/signs/profile-capricorn.png'
         alt=''
       />
-      <h2>Current Sign Name</h2>
+      <h2>Capricorn</h2>
       <h4>Element: </h4>
       <h4>Traits: </h4>
     </div>

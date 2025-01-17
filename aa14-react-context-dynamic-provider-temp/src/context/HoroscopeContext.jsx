@@ -1,5 +1,5 @@
 import { createContext, useState } from 'react';
-import * as horoscopesObj from '../data/horoscopes'
+import * as horoscopesObj from '../data/horoscopes.js'
 
 export const HoroscopeProvider = props => {
     const [currentSign, setCurrentSign] = useState('Capricorn')
